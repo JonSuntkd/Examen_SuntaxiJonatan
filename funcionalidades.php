@@ -109,8 +109,9 @@
                 <!-- left column -->
                 <div id="miPagina" class="col-md-5 column">
 
-                
 
+                    <h1>Funcionalidades</h1>
+                    
                     <form method="POST">
 
 

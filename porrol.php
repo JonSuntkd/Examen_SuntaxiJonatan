@@ -108,7 +108,8 @@
             <div class="row form-wrapper">
                 <!-- left column -->
                 <div id="miPagina" class="col-md-5 column">
-
+                <h1>Por rol</h1>
+                    
                     <form method="POST">
 
 

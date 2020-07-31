@@ -1,4 +1,7 @@
 <?php 
+echo "                                <th style = 'display:none;' tabindex='0' rowspan='1' colspan='1'>aaaa</th>";
+	
+
 	sleep(1);
 	include_once('conexion.php');
 	$sql = "SELECT * FROM seg_modulo;";
